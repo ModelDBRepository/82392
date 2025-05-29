@@ -12,8 +12,6 @@ The package [distro_164.tar.gz](http://www.lsm.tugraz.at/research/maass_etal_200
 
 ---
 
-*(C) 2003, Thomas Natschlager*                                                                                                                       *last modified 05/15/2006*
-
----
-
-2025-05-27 – Standardized to Markdown.
+*(C) 2003, Thomas Natschlager*  
+*last modified 05/15/2006*  
+*Standardized to Markdown 05/27/2025*
